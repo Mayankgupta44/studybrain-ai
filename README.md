@@ -20,6 +20,12 @@ StudyBrain AI is an AI-powered study planner and MCQ practice platform.
 /backend → API + database logic  
 /frontend → UI (HTML + Alpine + Tailwind)
 
+## Screenshots
+
+![Dashboard](ai-study-planner/screenshots/dashboard.png)
+![Practice](ai-study-planner/screenshots/practice.png)
+![Study Plan](ai-study-planner/screenshots/study-plan.png)
+
 ## Setup Instructions
 
 ### 1. Clone or download project
